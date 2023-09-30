@@ -1,4 +1,4 @@
-# NFT PICTURES PROFILES
+# NFT PICTURES PROFILE
 - 0xmaira (1).jpg
 - 0xmaira (2).jpg
 - 0xmaira (3).jpg
